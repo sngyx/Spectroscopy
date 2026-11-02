@@ -1,8 +1,11 @@
 hi graders!
 
-spectroscopy_reasoned: version with yapping and how i verified each step
+spectroscopy_reasoned: version with talking and how i verified each step, reasoning is in comments (sorry I realise now that the comments are very informal but it is too late to change that.)
 
 spectroscopy_fast: version where u press run all and collect results
+- gives output from .dng files in 'data' folder first
+- cell after that gives output from pics file, falling back to pics_jpg for coloured img when it looks cool
+- after that is suspicious deuterium and other random stuff
 
 failed: old trials that didn't work out. messy. don't touch
 
